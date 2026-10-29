@@ -18,16 +18,16 @@ My research interests are in algebraic topology, especially computations in stab
 
 - [A Thom Spectrum Model for \\(C_{2}\\)-Equivariant Brown-Gitler Spectra](https://arxiv.org/abs/2308.12945) with Guchuan Li and Sarah Petersen. *Proceedings of the American Mathematical Society*: Vol. 153, No. 12, Dec 2025, p. 5421--5435. 
 
-- Motivic $K$-Theory Cooperations Over the Rationals with Jackson Morris and Sarah Petersen. *In progress, preprint available upon request.*
+- Motivic \\(K\\)-Theory Cooperations Over the Rationals with Jackson Morris and Sarah Petersen. *In progress, preprint available upon request.*
 
-- [Parametrized $\mathbb{F}_2$-Cohomology of $B_{C_{2}}O(1)$](https://arxiv.org/abs/2607.27398) with Agnès Beaudry, Chloe Lewis, Clover May, and Sabrina Pauli.
+- [Parametrized \\(\mathbb{F}_2\\)-Cohomology of \\(B_{C_{2}}O(1)\\)](https://arxiv.org/abs/2607.27398) with Agnès Beaudry, Chloe Lewis, Clover May, and Sabrina Pauli.
 *Submitted, September 2026.*
 
 - [Splittings of Truncated Motivic Brown-Peterson Cooperations Algebras](https://arxiv.org/abs/2509.19542) with Jackson Morris and Sarah Petersen. *Submitted, September 2025*
 
-- [A Spectrum-level Splitting of the $ku_\mathbb{R}$-Cooperations Algebra]() with Guchuan Li and Sarah Petersen. *Submitted, April 2025.*
+- [A Spectrum-level Splitting of the \\(ku_\mathbb{R}\\)-Cooperations Algebra]() with Guchuan Li and Sarah Petersen. *Submitted, April 2025.*
 
-- [On a Spectrum-level Splitting of the $BP\langle 2 \rangle$-Cooperations Algebra](https://arxiv.org/abs/2208.11772). (There is a gap in the proof of the main theorem here.)
+- [On a Spectrum-level Splitting of the \\(BP\langle 2 \rangle\\)-Cooperations Algebra](https://arxiv.org/abs/2208.11772). (There is a gap in the proof of the main theorem here.)
 
 **Research with Undergraduates**
 
