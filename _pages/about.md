@@ -16,7 +16,7 @@ My research interests are in algebraic topology, especially computations in stab
 - [A Guide to Equivariant Parametrized Cohomology](https://arxiv.org/abs/2410.13971) with Agnès Beaudry, Chloe Lewis, Clover May, and Sabrina Pauli.
 *Topology and its Applications*: Vol. 376, December 2025, 109449.
 
-- [A Thom Spectrum Model for $C_{2}$-Equivariant Brown-Gitler Spectra](https://arxiv.org/abs/2308.12945) with Guchuan Li and Sarah Petersen. *Proceedings of the American Mathematical Society*: Vol. 153, No. 12, Dec 2025, p. 5421--5435. 
+- [A Thom Spectrum Model for \\(C_{2}\\)-Equivariant Brown-Gitler Spectra](https://arxiv.org/abs/2308.12945) with Guchuan Li and Sarah Petersen. *Proceedings of the American Mathematical Society*: Vol. 153, No. 12, Dec 2025, p. 5421--5435. 
 
 - Motivic $K$-Theory Cooperations Over the Rationals with Jackson Morris and Sarah Petersen. *In progress, preprint available upon request.*
 
