@@ -20,7 +20,7 @@ My research interests are in algebraic topology, especially computations in stab
 
 - Motivic \\(K\\)-Theory Cooperations Over the Rationals with Jackson Morris and Sarah Petersen. *In progress, preprint available upon request.*
 
-- [Parametrized \\(\mathbb{F}_2\\)-Cohomology of \\(B_{C_{2}}O(1)\\)](https://arxiv.org/abs/2607.27398) with Agnès Beaudry, Chloe Lewis, Clover May, and Sabrina Pauli.
+- [Parametrized \\(\mathbb{F}_2\\)-Cohomology of \\(B_{C_{2}}O(1)\\) ](https://arxiv.org/abs/2607.27398) with Agnès Beaudry, Chloe Lewis, Clover May, and Sabrina Pauli.
 *Submitted, September 2026.*
 
 - [Splittings of Truncated Motivic Brown-Peterson Cooperations Algebras](https://arxiv.org/abs/2509.19542) with Jackson Morris and Sarah Petersen. *Submitted, September 2025*
