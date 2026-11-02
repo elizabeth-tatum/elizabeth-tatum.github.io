@@ -16,14 +16,16 @@ My research interests are in algebraic topology, especially computations in stab
 - [A Guide to Equivariant Parametrized Cohomology](https://arxiv.org/abs/2410.13971) with Agnès Beaudry, Chloe Lewis, Clover May, and Sabrina Pauli.
 *Topology and its Applications*: Vol. 376, December 2025, 109449.
 
-- [A Thom Spectrum Model for \\(C_{2}\\)-Equivariant Brown-Gitler Spectra](https://arxiv.org/abs/2308.12945) with Guchuan Li and Sarah Petersen. *Proceedings of the American Mathematical Society*: Vol. 153, No. 12, Dec 2025, p. 5421--5435. 
+- [A Thom Spectrum Model for \\(C_{2}\\)-Equivariant Brown-Gitler Spectra](https://arxiv.org/abs/2308.12945) with Guchuan Li and Sarah Petersen. *Proceedings of the American Mathematical Society*: Vol. 153, No. 12, Dec 2025, p. 5421--5435.
+
+- - [Splittings of Truncated Motivic Brown-Peterson Cooperations Algebras](https://arxiv.org/abs/2509.19542) with Jackson Morris and Sarah Petersen. Under consideration for *Journal of Topology*, two strongly positive referee reports}
 
 - Motivic \\(K\\)-Theory Cooperations Over the Rationals with Jackson Morris and Sarah Petersen. *In progress, preprint available upon request.*
 
 - [Parametrized \\(\mathbb{F}_{2}\\)-Cohomology of \\(B_{C_{2}}O(1)\\) ](https://arxiv.org/abs/2607.27398) with Agnès Beaudry, Chloe Lewis, Clover May, and Sabrina Pauli.
 *Submitted, September 2026.*
 
-- [Splittings of Truncated Motivic Brown-Peterson Cooperations Algebras](https://arxiv.org/abs/2509.19542) with Jackson Morris and Sarah Petersen. *Submitted, September 2025*
+
 
 - [A Spectrum-level Splitting of the \\(ku_\mathbb{R}\\)-Cooperations Algebra]() with Guchuan Li and Sarah Petersen. *Submitted, April 2025.*
 
@@ -32,9 +34,7 @@ My research interests are in algebraic topology, especially computations in stab
 **Research with Undergraduates**
 
 - Fixed points in the dual Steenrod Algebra.
-Last summer, I organized a project on finding fixed points in the dual Steenrod algebra, through the [StemForAll](https://alexiosevich.com/stemforall2026.html) program. The Steenrod algebra is an algebraic object with many interesting connections to topology. The Steenrod algebra comes with a great deal of intricate structure: it has its own versions of addition and multiplication, as well as more novel operations. In particular, the Steenrod algebra comes equipped with an automorphism called the conjugate, that is, a special function from the Steenrod algebra to itself.
-
-A more familiar example of an algebraic object with a simpler conjugate is the complex numbers: the complex numbers come equipped with addition and multiplication, as well as the complex conjugate. The fixed points of the complex conjugate are the real numbers, because the complex conjugate of any real number is itself. Since the Steenrod algebra has a more complicated structure than the complex numbers, the fixed points of its conjugate are not known. The goal of this project is to investigate and identify the fixed points in small portions of the Steenrod algebra. This is work in progress with Ishika Jahaly, Akshay Sant, Logan Singh, and Showmee Zou. A preliminary presentation is available [here.]([fixed-points-stemForAll.pdf](https://elizabeth-tatum.github.io/files/fixed-points-stemForAll.pdf))
+ The Steenrod algebra is an algebraic object with many interesting connections to topology. The Steenrod algebra comes with a great deal of intricate structure: it has its own versions of addition and multiplication, as well as more novel operations. In particular, the Steenrod algebra comes equipped with an automorphism called the conjugate, that is, a special function from the Steenrod algebra to itself. A more familiar example of an algebraic object with a simpler conjugate is the complex numbers: the complex numbers come equipped with addition and multiplication, as well as the complex conjugate. The fixed points of the complex conjugate are the real numbers, because the complex conjugate of any real number is itself. Since the Steenrod algebra has a more complicated structure than the complex numbers, the fixed points of its conjugate are not known. The goal of this project is to investigate and identify the fixed points in small portions of the Steenrod algebra. This project began as part of the two-week [StemForAll](https://alexiosevich.com/stemforall2026.html) program, and we are continuing to work on it this fall. This is work in progress with Ishika Jahaly, Akshay Sant, Logan Singh, and Showmee Zou. A preliminary presentation is available [here.]([fixed-points-stemForAll.pdf](https://elizabeth-tatum.github.io/files/fixed-points-stemForAll.pdf))
 
 
 
