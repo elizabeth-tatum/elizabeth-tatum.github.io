@@ -18,7 +18,7 @@ My research interests are in algebraic topology, especially computations in stab
 
 - [A Thom Spectrum Model for \\(C_{2}\\)-Equivariant Brown-Gitler Spectra](https://arxiv.org/abs/2308.12945) with Guchuan Li and Sarah Petersen. *Proceedings of the American Mathematical Society*: Vol. 153, No. 12, Dec 2025, p. 5421--5435.
 
-- - [Splittings of Truncated Motivic Brown-Peterson Cooperations Algebras](https://arxiv.org/abs/2509.19542) with Jackson Morris and Sarah Petersen. Under consideration for *Journal of Topology*, two strongly positive referee reports}
+- [Splittings of Truncated Motivic Brown-Peterson Cooperations Algebras](https://arxiv.org/abs/2509.19542) with Jackson Morris and Sarah Petersen. Under consideration for *Journal of Topology*, two strongly positive referee reports}
 
 - Motivic \\(K\\)-Theory Cooperations Over the Rationals with Jackson Morris and Sarah Petersen. *In progress, preprint available upon request.*
 
