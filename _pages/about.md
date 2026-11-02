@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Assistant Professor at the University of Rochester, mentored by Doug Ravenel. Before that, I was a postdoc at University of Bonn and Stockholm University, mentored by Markus Hausmann. I received my PhD from the University of Illinois at Urbana-Champaign, advised by Vesna Stojanoska.
+I am a Visiting Assistant Professor at the University of Rochester, mentored by Doug Ravenel. Before that, I was a postdoc at University of Bonn and Stockholm University, mentored by Markus Hausmann. I received my PhD from the University of Illinois at Urbana-Champaign, advised by Vesna Stojanoska. A copy of my CV is available [here](https://elizabeth-tatum.github.io/files/cv-nov1.pdf)
 
 # Research
 My research interests are in algebraic topology, especially computations in stable homotopy theory.
